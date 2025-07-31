@@ -1,5 +1,4 @@
 # Spotify-Expert-System
-# Spotify-Expert-System
 An academic project that fuses *symbolic reasoning* (Prolog) with *data-driven similarity search* (K-NN) to recommend new music.  
 The workflow:
 
