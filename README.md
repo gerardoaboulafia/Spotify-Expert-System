@@ -29,7 +29,7 @@ The workflow:
 
 ## Quick start
 
-⁠ bash
+```bash
 # 1) Create environment
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt   # pandas, spotipy, scikit-learn, swiplserver …
@@ -43,4 +43,5 @@ python main.py --genre "pop" \
                --artist "Justin Bieber" \
                --k 10
  ⁠
-*Note:* To use the system with songs that are not in the knowledge base, you need to provide your own API Keys.
+```
+**Note:** To use the system with songs that are not in the knowledge base, you need to provide your own API Keys.
